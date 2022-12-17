@@ -1,0 +1,16 @@
+input{
+    padding: 5px;
+    color: crimson;
+    background-color: darkgray;
+}
+input:hover{
+    background-color: aqua;
+}
+button{
+    padding: 5px;
+    color: darkblue;
+    background-color: chartreuse;
+}
+input::placeholder{
+    color:darkmagenta;
+}
